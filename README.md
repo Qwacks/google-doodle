@@ -1,11 +1,20 @@
 # Google Doodle
 
-## Brainstorm Ideas
+## Brainstormin' Ideas
 
-* ABC
-* XYZ
+* spring
+* celeb birthday?
+* philosopher birthday
+* band's birthday
+* Sasquatch!
+* Saint Patties day
+* Halloweeeeeen!
+* Father's Day
+* anniversary of (insert videogame and/or console here)
 
+## Research for Ideas
 
-## Content Doodle
-
-Your content goes here. 
+* Links
+* Movies
+* TED Talks
+* Presentations
